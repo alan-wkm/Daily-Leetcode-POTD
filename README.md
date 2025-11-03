@@ -21,7 +21,7 @@ There is a file which automatically fetches LeetCode's Daily Problem of the Day 
 
 ## Contributing
 
-Feel free to submit your solutions as pull requests or open issues for improvements!
+Feel free to fork and make any changes or updates!
 
 ## Automation Details
 
