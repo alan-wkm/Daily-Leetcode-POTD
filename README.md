@@ -1,7 +1,8 @@
 # Daily Leetcode POTD
 
 Queries Leetcode GraphQL as well as populate Telegram ([link ](https://t.me/+KukNOrH9lgI0YmNl)) with the corresponding Leetcode Question.
-
+Current version: 1.1
+Last Update: 2026/03/04
 There is a file which automatically fetches LeetCode's Daily Problem of the Day and creates a Python starter file for users to quickly begin working on the solution.
 
 ## Features
